@@ -1,0 +1,14 @@
+# Ignore configuration files
+wp-config.php
+
+# Ignore cache and temporary files
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+
+# Ignore log files
+*.log
+
+# Ignore miscellaneous files
+.DS_Store
+.env
